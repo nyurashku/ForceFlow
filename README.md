@@ -1,7 +1,10 @@
 # ForceFlow
-ForceFlow - A website for Data Scientists and Quants - A Django Project 
 
 ![forceflow_logo](https://github.com/nyurashku/ForceFlow/assets/119478875/7eb89daf-d404-4a58-9953-ccc164c93885)
+
+ForceFlow - A website for Data Scientists and Quants - A Django Project 
+
+
 
 ## Description
 
